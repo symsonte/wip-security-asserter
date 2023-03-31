@@ -1,0 +1,10 @@
+{
+    "name": "symsonte/wip-security-asserter",
+    "autoload": {
+        "psr-4": {
+            "Symsonte\\": [
+                "src"
+            ]
+        }
+    }
+}
